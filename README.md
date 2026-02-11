@@ -11,7 +11,7 @@ Atualmente estou desenvolvendo projetos práticos utilizando:
 - 📉 Excel
 - 📈 Análise Exploratória de Dados  
 
-Meu objetivo é transformar dados em informações úteis para tomada de decisão, sempre buscando aprender mais sobre modelagem, visualização e engenharia de dados.
+Meu objetivo é utilizar dados para gerar insights relevantes e apoiar a tomada de decisão de forma estratégica, aprimorando continuamente minhas habilidades em análise e visualização.
 
 🚀 Estou em constante evolução e aberto a oportunidades na área de dados.
 
