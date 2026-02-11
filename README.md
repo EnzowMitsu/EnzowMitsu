@@ -17,5 +17,5 @@ Meu objetivo é transformar dados em informações úteis para tomada de decisã
 ---
 
 📫 Conecte-se comigo:  
-[https://www.linkedin.com/in/enzo-mitsuo-mitsuo-nakasato-535281370/?locale=en_US]  
-[enzomnaka@gmail.com]
+https://www.linkedin.com/in/enzo-mitsuo-mitsuo-nakasato-535281370/?locale=en_US
+enzomnaka@gmail.com
