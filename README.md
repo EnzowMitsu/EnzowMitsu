@@ -1,6 +1,7 @@
 ## 👋 Olá, eu sou o Enzo!
 
-Sou estudante e estou me preparando para trabalhar na área de **Dados**.
+Tenho grande interesse na área de Dados e venho desenvolvendo habilidades em análise, manipulação e visualização de dados para geração de insights estratégicos.
+Aqui você encontrará meus projetos e estudos na área de dados.
 
 Atualmente estou desenvolvendo projetos práticos utilizando:
 
