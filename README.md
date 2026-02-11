@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Enzo!
 
-<!--
-**EnzowMitsu/EnzowMitsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante e estou me preparando para trabalhar na área de **Dados**.
 
-Here are some ideas to get you started:
+Atualmente estou desenvolvendo projetos práticos utilizando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python  
+- 🗄️ SQL  
+- 📊 Power BI
+- 📉 Excel
+- 📈 Análise Exploratória de Dados  
+
+Meu objetivo é transformar dados em informações úteis para tomada de decisão, sempre buscando aprender mais sobre modelagem, visualização e engenharia de dados.
+
+🚀 Estou em constante evolução e aberto a oportunidades na área de dados.
+
+---
+
+📫 Conecte-se comigo:  
+[https://www.linkedin.com/in/enzo-mitsuo-mitsuo-nakasato-535281370/?locale=en_US]  
+[enzomnaka@gmail.com]
