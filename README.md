@@ -18,5 +18,5 @@ Meu objetivo é utilizar dados para gerar insights relevantes e apoiar a tomada 
 ----
 
 📫 Conecte-se comigo:  
-- https://www.linkedin.com/in/enzo-mitsuo-mitsuo-nakasato-535281370/?locale=en_US
+- https://www.linkedin.com/in/enzo-nakasato/
 - enzomnaka@gmail.com
